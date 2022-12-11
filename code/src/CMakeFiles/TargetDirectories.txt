@@ -1,0 +1,3 @@
+/home/frontier/workspace/20spr/20spr_graphics/final/project/src/CMakeFiles/rebuild_cache.dir
+/home/frontier/workspace/20spr/20spr_graphics/final/project/src/CMakeFiles/main.dir
+/home/frontier/workspace/20spr/20spr_graphics/final/project/src/CMakeFiles/edit_cache.dir
